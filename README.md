@@ -31,6 +31,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
+Be sure to also copy the folder **jupyterworkflow** which includes the used functions.
+
 ## Contributing
 This is the code from the training of Jake Vanderplas. For more information or to also conduct the training visit [his blog post](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 
