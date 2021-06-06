@@ -6,9 +6,13 @@ The Data used in this training is from Seattle the [Fremont Bridge Bicycle Count
 The Fremont Bridge Bicycle Counter began operation in October 2012 and records the number of bikes that cross the bridge using the pedestrian/bicycle pathways.
 
 ##Visuals
-[Structure of the data](./visuals/Data.JPG "Structure of the Data")
-
-
+- Structure of the Data:  
+![Structure of the data](./visuals/Data.JPG "Structure of the Data")  
+- Analysis:  
+![Visual 1](./visuals/visual1.JPG)  
+![Visual 2](./visuals/visual2.JPG)  
+![Visual 3](./visuals/visual3.JPG)  
+![Visual 4](./visuals/visual4.JPG)  
 
 ## Installation
 
