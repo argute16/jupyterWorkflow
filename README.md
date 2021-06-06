@@ -12,7 +12,8 @@ The Data used in this training is from Seattle the [Fremont Bridge Bicycle Count
 ![Visual 1](./visuals/visual1.JPG)  
 ![Visual 2](./visuals/visual2.JPG)  
 ![Visual 3](./visuals/visual3.JPG)  
-![Visual 4](./visuals/visual4.JPG)  
+![Visual 4](./visuals/visual4.JPG)
+![Visual 5](./visuals/visual5.JPG)  
 
 ## Installation
 
@@ -25,13 +26,26 @@ from urllib.request import urlretrieve
 ```bash
 import pandas as pd
 ```
-- [matplotlib.pyplot](https://matplotlib.org/2.0.2/api/pyplot_api.html)- Provides a MATLAB-like plotting framework..
+- [matplotlib.pyplot](https://matplotlib.org/2.0.2/api/pyplot_api.html)- Provides a MATLAB-like plotting framework.
 
 ```bash
 import matplotlib.pyplot as plt
 ```
+- [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)- for the Principal component analysis.
 
-Be sure to also copy the folder **jupyterworkflow** which includes the used functions.
+```bash
+from sklearn.decomposition import PCA
+```
+- [GaussianMixture](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html)- for the Unsupervised Clustering.
+
+```bash
+from sklearn.decomposition import PCA
+```
+
+Be sure to also copy the folder **jupyterworkflow** which includes the used function get_fremont_data.
+```bash
+from jupyterworkflow.data import get_fremont_data
+```
 
 ## Contributing
 This is the code from the training of Jake Vanderplas. For more information or to also conduct the training visit [his blog post](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
