@@ -13,7 +13,7 @@ The Data used in this training is from Seattle the [Fremont Bridge Bicycle Count
 ![Visual 2](./visuals/visual2.JPG)  
 ![Visual 3](./visuals/visual3.JPG)  
 ![Visual 4](./visuals/visual4.JPG)
-![Visual 5](./visuals/visual5.JPG)  
+![Visual 5](./visuals/visual5.jpg)  
 
 ## Installation
 
@@ -42,7 +42,7 @@ from sklearn.decomposition import PCA
 from sklearn.decomposition import PCA
 ```
 
-Be sure to also copy the folder **jupyterworkflow** which includes the used function get_fremont_data.
+- Be sure to also copy the folder **jupyterworkflow** which includes the used function get_fremont_data.
 ```bash
 from jupyterworkflow.data import get_fremont_data
 ```
