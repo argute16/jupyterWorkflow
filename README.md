@@ -13,7 +13,7 @@ The Data used in this training is from Seattle the [Fremont Bridge Bicycle Count
 ![Visual 2](./visuals/visual2.JPG)  
 ![Visual 3](./visuals/visual3.JPG)  
 ![Visual 4](./visuals/visual4.JPG)
-![Visual 5](./visuals/visual5.jpg)  
+![Visual 6](./visuals/visual6.jpg)  
 
 ## Installation
 
